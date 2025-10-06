@@ -1,0 +1,9 @@
+[Plymouth Theme]
+Name=eos
+Description=displays endevourOS logo
+Comment=created by lost-io (@lost-io)
+ModuleName=script
+
+[script]
+ImageDir=/usr/share/plymouth/themes/eos
+ScriptFile=/usr/share/plymouth/themes/eos/eos.script
