@@ -1,6 +1,6 @@
 # Eos plymouth theme
 
-![gif][eos_preview.gif]
+![gif](eos_preview.gif)
 
 Plymouth theme based on [plymouth-themes-template](https://github.com/adi1090x/plymouth-themes/tree/master/template)
 Animation created in 'blender' with geometry nodes.
